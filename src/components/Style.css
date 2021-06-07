@@ -1,0 +1,18 @@
+.btn{
+    width: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 7px;
+    border: none;
+}
+.btn-confirm{
+    color: #fff;
+    background-color: #62BEAC;
+}
+.btn-confirm:hover{
+    color:#62BEAC;
+    background-color: #fff;
+}
+.btn-submit{
+    color: #62BEAC;
+}
